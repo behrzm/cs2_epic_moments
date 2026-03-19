@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41289940-6d35-43e4-84de-1a9c44e94a37" name="Changes" comment="" />
+    <list default="true" id="41289940-6d35-43e4-84de-1a9c44e94a37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cs2_epic_moments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/deps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/routes_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/routes_web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/data/legends_seed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ml/analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ml/feature_engineering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ml/matcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/leaderboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/analysis_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/leaderboard_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/matching_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/media_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/story_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/upload_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/leaderboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/legends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/partials/result_card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/partials/task_status.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/utils/ffmpeg_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/utils/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/utils/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/workers/celery_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/workers/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_health.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_matcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_upload_validation.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +61,17 @@
     <persistenceIdMap>
       <entry key="_C:/Users/behru/Downloads/cs2_epic_moments" value="3BAI1hEuSoYNpSIK7QYU3vEIakq" />
     </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -26,12 +87,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true"
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\behru\Downloads\cs2_epic_moments\app\models" />
+      <recent name="C:\Users\behru\Downloads\cs2_epic_moments\app" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
